@@ -5,7 +5,8 @@
 Inspired by ZBrush's Ghost Transparency, it makes unselected objects transparent to improve your workflow efficiency.  
 Supports both English and Japanese UI.
 
-![HighlightGhost Demo](https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad)
+https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
+
 
 ## Features
 
