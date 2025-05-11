@@ -7,9 +7,7 @@ ZBrush のゴースト透過表示のように選択オブジェクト以外を�
 
 https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
 
-
-## 機能
-
+## 機能  
 - **未選択オブジェクトの半透明化**  
   未選択のメッシュオブジェクを半透明化します。`透明度` や `透明色` を調整して効果を細かく設定できます。
 
@@ -28,7 +26,7 @@ https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
 - **多言語対応**  
   英語と日本語の UI 翻訳に対応しています。
 
-## 使用方法
+## 使用方法  
 
 1. **パネルを開く**：  
    - 3D ビューポートで `N` キーを押してサイドバーを表示し、`ハイライト` タブを選択します。
@@ -57,18 +55,18 @@ https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
 
 - **Blender バージョン**：Blender 4.3.1 で開発しました。  
 - 他バージョンは未確認です。
-
+  <br>
+  <br>
 ## ライセンス
 
-HighlightGhost は **GNU General Public License v3 (GPLv3)** の下で公開されています。このアドオンは自由に使用、改変、配布できますが、派生作品も同じライセンスで公開する必要があります。詳細は [LICENSE](LICENSE) ファイルを参照してください。
-
-## コーヒー代でサポートしていただければ嬉しいです ☕
+HighlightGhost は **GNU General Public License v3 (GPLv3)** の下で公開されています。このアドオンは自由に使用、改変、配布できますが、派生作品も同じライセンスで公開する必要があります。詳細は [LICENSE](LICENSE) ファイルを参照してください。  
+## 支援
 
 HighlightGhost が気に入ったら、コーヒー代をサポートしていただければ嬉しいです！  
 ちょっとした励みになります   
- [PayPal でサポート](https://www.paypal.me/yourpaypal)
-
-
+ [PayPal でサポート](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
+<br>
+<br>
 ## 著者
 
 - **ALLAN-mfQ　（キュー）**  
