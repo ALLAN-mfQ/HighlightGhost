@@ -1,73 +1,80 @@
 # HighlightGhost
-**HighlightGhost** は、Blenderでオブジェクトの視認性を向上させるアドオンです。  
-ZBrush のゴースト透過表示のように選択オブジェクㇳ以外を透明化することで作業効率を高めます。  
-英語と日本語の UI に対応しています。
+[日本語版 README はこちら (Japanese README)](README_ja.md)
 
-https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
+**HighlightGhost** is a Blender add-on that enhances object visibility in the 3D viewport.  
+Inspired by ZBrush's Ghost Transparency, it makes unselected objects transparent to improve your workflow efficiency.  
+Supports both English and Japanese UI.
 
+![HighlightGhost Demo](https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad)
 
+## Features
 
+- **Transparency for Unselected Objects**  
+  Makes unselected mesh objects transparent. Adjust `Transparency` and `Transparency Color` to fine-tune the effect.
 
-## 機能
+- **Fresnel Effect Toggle**  
+  Enable/disable the Fresnel effect to highlight the edges of transparent objects. Adjust `Fresnel IOR` to control the edge intensity.
 
-- **未選択オブジェクトの半透明化**  
-  未選択のメッシュオブジェクを半透明化します。`透明度` や `透明色` を調整して効果を細かく設定できます。
+- **Solid Color for Selected Objects**  
+  Highlights selected objects with a solid color in Material Preview mode. You can customize the color.
 
-- **フレネル効果の切り替え**  
-  透明オブジェクトのエッジを強調するフレネル効果をオン/オフできます。`フレネル IOR` を調整してエッジの強調具合を制御します。
+- **Wireframe Display**  
+  Adds a wireframe overlay to transparent objects for better visibility.
 
-- **選択オブジェクトの単色化**  
-  マテリアルプレビューモードで選択オブジェクトを単色で強調表示します。色をカスタマイズできます。
+- **Material Restoration**  
+  Restores all objects to their original materials with a single click.
 
-- **ワイヤーフレーム表示**  
-  透明オブジェクトにワイヤーフレーム表示を追加して視認性を向上させます。
+- **Multilingual Support**  
+  Supports English and Japanese UI translations.
 
-- **マテリアルの復元**  
-  ワンクリックですべてのオブジェクトを元のマテリアルに戻します。
+## Usage
 
-- **多言語対応**  
-  英語と日本語の UI 翻訳に対応しています。
+1. **Open the Panel**:  
+   - In the 3D Viewport, press `N` to open the sidebar and select the `Highlight` tab.
 
+2. **Apply Transparency**:  
+   - Select one or more mesh objects.  
+   - Click `Make Unselected Transparent` to apply transparency to unselected objects.  
+   - Adjust `Transparency` (0.0 to 1.0) and `Transparency Color` to customize the effect.
 
-## 使用方法
+3. **Toggle Fresnel Effect**:  
+   - Turn on `Use Fresnel` to add a ghost-like edge highlight to transparent objects.  
+   - Adjust `Fresnel IOR` (1.0 to 10.0) to control the edge highlight intensity.
 
-1. **パネルを開く**：  
-   - 3D ビューポートで `N` キーを押してサイドバーを表示し、`ハイライト` タブを選択します。
+4. **Solid Color for Selected Objects**:  
+   - Switch to Material Preview mode (`Viewport Shading > Material Preview`).  
+   - Click `Toggle Solid Color` to apply a solid color to selected objects.  
+   - Choose a color using the `Solid Color` picker.  
+   - Click again to revert to the original materials.
 
-2. **透明化の適用**：  
-   - 1 つ以上のメッシュオブジェクトを選択します。  
-   - `未選択を半透明に` をクリックして、未選択オブジェクトに透明度を適用します。  
-   - `透明度`（0.0 から 1.0）と `透明色` を調整して効果をカスタマイズします。
+5. **Show Wireframe**:  
+   - Turn on `Show Wireframe` to display wireframes on transparent objects.
 
-3. **フレネル効果の切り替え**：  
-   - `フレネル効果を使用` をオンにすると、ゴーストっぽく輪郭を強調します。 
-   - `フレネル IOR`（1.0 から 10.0）を調整してエッジの強調具合を調節できます。
+6. **Restore Materials**:  
+   - Click `Restore` to revert all objects to their original materials.
 
-4. **選択オブジェクトの単色化**：  
-   - `単色化を切り替え` をクリックして、選択オブジェクトに単色を適用します。  
-   - `単色` ピッカーで色を選択します。  
-   - もう一度クリックすると元のマテリアルに戻ります。
+## Requirements
 
-5. **ワイヤーフレーム表示**：  
-   - `ワイヤーフレーム表示` 透明オブジェクトにワイヤーフレームを表示します。  
+- **Blender Version**: Developed on Blender 4.3.1.  
+- Other versions are untested (likely works on 2.80 and later).
 
+## License
 
-6. **マテリアルの復元**：  
-   - `元に戻す` クリックすると全てのオブジェクトを元のマテリアルに戻します。
+HighlightGhost is licensed under the **GNU General Public License v3 (GPLv3)**.  
+You are free to use, modify, and distribute this add-on, but derivative works must also be licensed under the same terms.  
+See the [LICENSE](LICENSE) file for details.
 
+## Buy Me a Coffee? ☕
 
-## 必要条件
+If you like HighlightGhost, I’d be thrilled if you could buy me a coffee!  
+It really helps keep me motivated 
+ [Support me on PayPal](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
 
-- **Blender バージョン**：Blender 4.3.1 で開発しました。
-- 他バージョンは未確認です。
+No pressure though—only if you feel like it!
 
+## Author
 
-## ライセンス
-
-HighlightGhost は **GNU General Public License v3 (GPLv3)** の下で公開されています。このアドオンは自由に使用、改変、配布できますが、派生作品も同じライセンスで公開する必要があります。詳細は [LICENSE](LICENSE) ファイルを参照してください。
-
-## 著者
-
-- **ALLAN-mfQ　（キュー）**
-- [X](https://x.com/Qdegozaimasu)
-- [Youtube](https://www.youtube.com/channel/UCiIz3zCHwNroYE9h4h5BDew)
+- **ALLAN-mfQ (Q)**  
+- [X](https://x.com/Qdegozaimasu)  
+- [YouTube](https://www.youtube.com/channel/UCiIz3zCHwNroYE9h4h5BDew)
+- 
