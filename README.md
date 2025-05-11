@@ -75,6 +75,3 @@ It really helps keep me motivated
 - [X](https://x.com/Qdegozaimasu)  
 - [YouTube](https://www.youtube.com/channel/UCiIz3zCHwNroYE9h4h5BDew)
 
----
-
-Happy Blending! 😄
