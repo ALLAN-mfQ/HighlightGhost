@@ -61,13 +61,13 @@ https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
 
 HighlightGhost is licensed under the **GNU General Public License v3 (GPLv3)**. This add-on can be freely used, modified, and distributed, but derivative works must also be licensed under the same terms. See the [LICENSE](LICENSE) file for details.
 
-## Buy Me a Coffee? ☕
+## Buy Me a Coffee? 
 
 If you like HighlightGhost, I’d be thrilled if you could buy me a coffee!  
-It really helps keep me motivated 😊  
-👉 [Support me on PayPal](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
+It really helps keep me motivated   
+ [Support me on PayPal](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
 
-No pressure though—only if you feel like it!
+
 
 ## Author
 
