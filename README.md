@@ -78,4 +78,3 @@ No pressure though—only if you feel like it!
 - **ALLAN-mfQ (Q)**  
 - [X](https://x.com/Qdegozaimasu)  
 - [YouTube](https://www.youtube.com/channel/UCiIz3zCHwNroYE9h4h5BDew)
-- 
