@@ -1,5 +1,5 @@
 # HighlightGhost
-[日本語版 README はこちら (Japanese README)](README_ja.md)
+# [日本語版 README はこちら (Japanese README)](README_ja.md)
 
 **HighlightGhost** is a Blender add-on that improves object visibility.  
 It enhances workflow efficiency by making objects other than the selected ones transparent, similar to ZBrush's Ghost Transparency.  
@@ -61,12 +61,16 @@ https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
 
 HighlightGhost is licensed under the **GNU General Public License v3 (GPLv3)**. This add-on can be freely used, modified, and distributed, but derivative works must also be licensed under the same terms. See the [LICENSE](LICENSE) file for details.
 
-## Buy Me a Coffee? 
 
-If you like HighlightGhost, I’d be thrilled if you could buy me a coffee!  
-It really helps keep me motivated   
- [Support me on PayPal](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
+## Support the Developer / Buy Me a Coffee? ☕
 
+If you find **HighlightGhost** useful and would like to support its development, I’d be thrilled if you could buy me a coffee! 
+Any support is greatly appreciated and helps keep me motivated to maintain this addon and create more helpful tools for the Blender community.
+
+*   [Donate via PayPal](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
+
+
+Thank you for your support!
 
 
 ## Author
