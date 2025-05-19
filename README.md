@@ -62,17 +62,6 @@ https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
 HighlightGhost is licensed under the **GNU General Public License v3 (GPLv3)**. This add-on can be freely used, modified, and distributed, but derivative works must also be licensed under the same terms. See the [LICENSE](LICENSE) file for details.
 
 
-## Support the Developer / Buy Me a Coffee? ☕
-
-If you find **HighlightGhost** useful and would like to support its development, I’d be thrilled if you could buy me a coffee! 
-Any support is greatly appreciated and helps keep me motivated to maintain this addon and create more helpful tools for the Blender community.
-
-*   [Donate via PayPal](https://paypal.me/kiutsugawa?country.x=JP&locale.x=ja_JP)
-
-
-Thank you for your support!
-
-
 ## Author
 
 - **ALLAN-mfQ (Q)**  
