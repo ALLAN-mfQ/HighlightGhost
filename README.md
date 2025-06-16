@@ -6,6 +6,13 @@ It enhances workflow efficiency by making objects other than the selected ones t
 Supports both English and Japanese UI.  
 
 https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
+英語にして下さい
+
+# Update
+Ver 1.1
+- To reduce processing load when the number of objects increases, changes were made to apply only to displayed objects.
+- The restoration function has been made more robust to prevent material loss when object names are changed.
+
 
 ## Features
 
