@@ -5,7 +5,11 @@ ZBrush のゴースト透過表示のように選択オブジェクト以外を�
 英語と日本語の UI に対応しています。
 
 
-https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad
+https://github.com/user-attachments/assets/e0a14420-0d7f-4d37-99c3-cfb1bb0089ad  
+## 更新  
+Ver 1.1  
+- オブジェクトが増えると処理が重くなるため、表示オブジェクトのみに適用するように変更しました。  
+- オブジェクト名を変更してもマテリアルが失われないよう、復元機能をより堅牢にしました。  
 
 ## 機能  
 - **未選択オブジェクトの半透明化**  
