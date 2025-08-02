@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Object Highlight Tools (v1.2)",
-    "author": "Your Name",
+    "author": "ALLAN-mfQ",
     "version": (1, 2, 0),
     "blender": (4, 3, 0),
     "location": "View3D > Sidebar > Highlight",
@@ -349,3 +349,4 @@ def unregister():
 
 if __name__ == "__main__":
     register()
+
